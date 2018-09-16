@@ -1,6 +1,6 @@
 # Information Display (Backend)
 
-This is the backend for the Information Display.
+This is the backend for the [Information Display](https://github.com/denniskawurek/information-display-backend).
 
 ## Folder structure
 
@@ -53,11 +53,11 @@ cd code/information-display
 ```
 4. Clone this project
 ```
-git clone 
+git clone https://github.com/denniskawurek/information-display-backend
 ```
 5. Clone the app
 ```
-git clone 
+git clone https://github.com/denniskawurek/information-display
 ```
 6. Install the AdaFruit library
 Will be used for the temperature sensor.
