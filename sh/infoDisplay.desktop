@@ -1,0 +1,11 @@
+# store this file in ~/.config/autostart with .desktop file ending
+# validate with desktop-file-validate [FILE]
+
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec="/home/pi/code/information-display/information-display-backend/sh/start.sh"
+Name=InfoDisplay
+

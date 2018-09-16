@@ -1,0 +1,7 @@
+*/15 * * * * cd /home/pi/code/information-display/information-display-backend/api_requests && python rssFeed.py
+*/15 * * * * cd /home/pi/code/information-display/information-display-backend/api_requests && python transportation.py
+*/15 * * * * cd /home/pi/code/information-display/information-display-backend/api_requests && python  currentWeather.py
+* 0 * * * cd /home/pi/code/information-display/information-display-backend/api_requests && python weatherForecast.py
+*/4 * * * * cd /home/pi/code/information-display/information-display-backend/sensors && /usr/bin/python dht11.py
+* * * * * cd /home/pi/code/information-display/information-display-backend/sensors && /usr/bin/python light.py
+

@@ -1,0 +1,6 @@
+flask_cors
+flask
+pymongo==3.4.0
+flask_socketio
+feedparser
+requests
