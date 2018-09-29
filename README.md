@@ -2,6 +2,8 @@
 
 This is the backend for the [Information Display](https://github.com/denniskawurek/information-display-backend).
 
+If you want to read how to setup the whole display you should read the [article I wrote](https://dkwr.de/articles/a/information-display-raspberry-pi-zero).
+
 ## Folder structure
 
 ```
