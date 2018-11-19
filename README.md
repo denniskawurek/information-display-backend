@@ -105,6 +105,10 @@ Type in the following command:
 You can run the app either by
 `FLASK_APP=server.py flask run` or `python server.py`
 
+### Run with uwsgi
+
+The better way to serve the API is to use [uwsgi](https://github.com/denniskawurek/information-display-backend/wiki/Run-with-uwsgi)
+
 
 # Pins
 See [pinout.xyz](https://de.pinout.xyz/#)
